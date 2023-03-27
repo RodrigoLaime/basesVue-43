@@ -1,0 +1,20 @@
+{
+  "name": "basesvue-43",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoLaime/basesVue-43.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoLaime/basesVue-43/issues"
+  },
+  "homepage": "https://github.com/RodrigoLaime/basesVue-43#readme"
+}
